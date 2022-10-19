@@ -7,6 +7,36 @@
     font-family: Helvetica; 
 }
 */
+h1#Head8{ font-family: Times New Roman ;
+    letter-spacing: 1.2cm;
+   
+
+}
+#Shakebtn{ 
+    hover: background-color: yellow;
+      
+    font-size: 50px;
+    align-items:;
+    border-radius: 100%;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    border-bottom: 10px;
+       padding-top: 2px;
+       padding-right: 17px;
+       padding-bottom:2px;
+       padding-left: 17px;
+       margin-top: 16px;
+       margin-right: 0px;
+       margin-bottom: 0px;
+       margin-left: 20px;
+}
+div{
+    align-items: center;
+}
+#Shakebtn:hover{
+    background-color: rgb(121, 116, 116);
+}
+.ResetBtn{}
 
 #questionArea{
 text-area
@@ -18,9 +48,12 @@ text-area
     padding-right: 0px;
     padding-bottom: 0px;
     padding-left: 450px;
+    align-items: center;
+}
 }
 h2 {
-
+    align-items: center;
+}
     
 }
 
@@ -51,29 +84,19 @@ fourm fieldset{
     padding:0cm;
     border:none;
 }
-button{
-background-color: rgb(0, 0, 0);
-color: rgb(255, 255, 255);
-   padding-top: 30px;
-   padding-right: 10px;
-   padding-bottom: 30px;
-   padding-left: 10px;
-   margin-top: 30px;
-   margin-right: 100px;
-   margin-bottom: 30px;
-   margin-left:90px;
+
+ #eightBallTxt{tex
+
+
+ }
+
+#Reset{ margin-top:40px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 218px;
+    
 }
-
-
-#Reset{font-family: fantasy ;
-padding-top: 0px;
-padding-right: 0px;
-padding-bottom: 0px;
-padding-left: 0px;
-margin-top: 30px;
-   margin-right: 100px;
-   margin-bottom: 30px;
-   margin-left:305px;
+   
 }
 
 }
@@ -99,7 +122,7 @@ body{
     padding-bottom: 0px;
     padding-left: 150px;
 }
- #content{
+ #content{ justify-content: center;
     padding-top: 0px;
 padding-right: 120px;
 padding-bottom: 20px;
@@ -109,8 +132,8 @@ padding-left: 200px;
     background: linear-gradient(333deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
     background-color: black;
     background-repeat: no-repeat;
- font-size: 18px;
- font-family:cursive;
+ font-size: 30px;
+ font-family:Impact;
  letter-spacing: .5px;
 }
 div.btn{background-color: #f48c06;
@@ -139,14 +162,24 @@ div.btn{background-color: #f48c06;
     color: #f48c06;
    }
    */ 
-   h1{
-
-font-family: fantasy;
-padding-top: 0px;
-padding-right: 120px;
-padding-bottom: 0px;
-padding-left: 43px;
+#eightBall{
+    height: 100px;
+    width: 100px;
+background-color: black;
+margin-top: 23px;
+   margin-left: 70px;
+    border-radius: 100%;
    }
+;
+}
+h1{
+
+    font-family:Arial, ;
+    padding-top: 0px;
+    padding-right: 120px;
+    padding-bottom: 0px;
+    padding-left: 43px;
+       }
    h2{
     font-family:fantasy ;
     padding-top: 0px;
