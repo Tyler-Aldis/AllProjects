@@ -1,0 +1,135 @@
+
+h1#Head8{ font-size: 62px;
+    display: block;
+    align-items: center;
+    color:#000000;
+    font-style: ;
+    letter-spacing: 1.2cm;
+}
+#eightBallTxt{
+    letter-spacing: 70px;
+    font-family:sans-serif;
+    margin-left: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 62px;
+    
+}
+button#Shakebtn{ 
+
+    font-size: 50px;
+    
+    border-radius: 100%;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    border-bottom: 10px;
+       padding-top: 2px;
+       padding-right: 17px;
+       padding-bottom:2px;
+       padding-left: 17px;
+       margin-top: 16px;
+       margin-right: 0px;
+       margin-bottom: 0px;
+       margin-left: 20px;
+}
+#Re{
+    margin-left: 4in; 
+    color: rgb(255, 255, 255);
+    background-color:black ;
+}
+div.magic8Header{  
+}
+div{
+    align-items: center;
+}
+#Shakebtn:hover{
+    height: 10px;
+    margin-right: 20px;
+    border-radius: 100%;
+    background-color: rgb(121, 116, 116);
+}
+.ResetBtn{   
+}
+#questionArea{
+text-area
+
+}
+h2 {
+    align-items: center;
+}
+fourm p{
+    font-size: 0cm;
+    line-height: 0cm;
+}
+fourm fieldset{
+    padding:0cm;
+    border:none;
+}
+ #eightBallTxt{
+ }
+#Reset{ margin-top:40px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 218px;
+    
+}
+#Text{
+    padding-top: 1000px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+body{
+    background-color: black;
+    padding-top: 100px;
+    padding-right: 150px;
+    padding-bottom: 0px;
+    padding-left: 150px;
+}
+#questionArea{
+    margin-top: 100px;
+}
+ div#content{ justify-content: center;
+    padding-top: 20px;
+padding-right: 120px;
+padding-bottom: 20px;
+padding-left: 200px;
+    margin: 0px;
+    background: rgb(131,58,180);
+    background: linear-gradient(333deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background-color: black;
+    background-repeat: no-repeat;
+ font-size: 30px;
+ font-family:sans-serif;
+ letter-spacing: .5px;
+}
+div.btn{background-color: #f48c06;
+}
+
+#eightBall{
+    height: 100px;
+    width: 100px;
+background-color: black;
+margin-top: 23px;
+   margin-left: 70px;
+    border-radius: 100%;
+   }
+h1{
+
+    font-family:sans-serif;
+    padding-top: 0px;
+    padding-right: 120px;
+    padding-bottom: 0px;
+    padding-left: 43px;
+       }
+   h2{
+    font-family: fantasy ;
+    padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 20px;
+   }
+   p#answer{
+    font-size: 62px;
+color: #ffffff;
+font-family:sans-serif;
+   }

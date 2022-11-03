@@ -9,8 +9,11 @@ console.log(userName.length)
 console.log(`Hello ${x} welcome`)
 console.log(y)*/
 
-let button = document.querySelector("Shakebtn")
-let answer = document.querySelector("#questionArea")
+let button = document.querySelector("shakeBtn");
+let answer = document.querySelector("#questionArea");
+button.addEventListener("click", function() {
+alert("clicked");
+});
 
 userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
 let userQuestion ='will i save the wirld'
