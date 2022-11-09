@@ -1,4 +1,4 @@
-/*var userName = ''
+var userName = ''
 const x = "tyler"
 const Mod = y 
 const outPut2 = 1
@@ -7,7 +7,7 @@ var Output= x + y;
 const mOutput = x || y
 console.log(userName.length)
 console.log(`Hello ${x} welcome`)
-console.log(y)*/
+console.log(y)
 
 let button = document.querySelector("shakeBtn");
 let answer = document.querySelector("#questionArea");
